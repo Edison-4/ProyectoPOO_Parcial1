@@ -1,2 +1,3 @@
-# Proyecto_1er_Paricial
+# ProyectoPOO_Parcial1
+
 Este proyecto consiste en un Sistema de Gestión de Transporte Urbano desarrollado en Python bajo el paradigma de Programación Orientada a Objetos, diseñado para administrar y cotizar servicios de transporte heterogéneos como rutas fijas y viajes expresos. La solución implementa una arquitectura robusta basada en herencia (con una superclase ServicioTransporte), encapsulamiento (para validar datos críticos como costos y distancias) y polimorfismo, lo que permite procesar listas mixtas de servicios para generar reportes unificados y calcular la recaudación total aplicando reglas de negocio específicas (recargos por hora pico o tarifas por kilometraje) de manera automática y escalable.
